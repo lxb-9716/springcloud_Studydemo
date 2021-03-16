@@ -1,0 +1,16 @@
+spring:
+  application:
+    name: spring_cloud_eurekaServer
+eureka:
+  client:
+    fetch-registry: true
+    register-with-eureka: true
+    service-url:
+      defaultZone: http://${eureka.instance.hostname}:${server.port}/eureka/,http://eurekaServer1:31001/eureka/    #默认的地址
+  instance:
+    hostname: eurekaServer2
+    instance-id: http://${eureka.instance.hostname}:${server.port}/eureka/   #当前注册中心服务的唯一id
+  server:
+    enable-self-preservation: true  #开启eureka的自我保护机制
+server:
+  port: 31002
