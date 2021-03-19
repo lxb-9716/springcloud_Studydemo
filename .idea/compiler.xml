@@ -9,11 +9,13 @@
         <outputRelativeToContentRoot value="true" />
         <module name="spring_cloud_eurekaServer" />
         <module name="springcloud_eurekaClient" />
+        <module name="springcloud_security_swagger-ui" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="spring_cloud_eurekaServer" target="1.8" />
       <module name="springcloud_eurekaClient" target="1.8" />
+      <module name="springcloud_security_swagger-ui" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

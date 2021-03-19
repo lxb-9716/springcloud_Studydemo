@@ -1,6 +1,6 @@
 spring:
   application:
-    name: spring_cloud_eurekaClient
+    name: spring-cloud-eurekaClient
 eureka:
   client:
     fetch-registry: true #是否需要从服务端获取注册信息
