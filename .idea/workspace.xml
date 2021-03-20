@@ -2,77 +2,41 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fa578344-7f04-4c9c-9d19-ac8d65299d5a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_druid_1_1_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_druid_spring_boot_starter_1_1_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_18_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_zaxxer_HikariCP_2_7_8.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__dom4j_dom4j_1_6_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_core_2_7_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_schema_2_7_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_spi_2_7_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_spring_web_2_7_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger2_2_7_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger_common_2_7_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger_ui_2_7_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_swagger_annotations_1_5_13.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_swagger_models_1_5_13.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_transaction_javax_transaction_api_1_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_45.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_7_10.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_logging_log4j_log4j_api_2_11_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_5_0_1_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_core_5_2_14_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_javax_persistence_hibernate_jpa_2_1_api_1_0_0_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_22_0_GA.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_jandex_2_0_3_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mapstruct_mapstruct_1_1_0_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_reflections_reflections_0_9_11.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_jpa_2_0_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_2_0_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_0_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_jpa_2_0_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_core_1_2_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_metadata_1_2_0_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aspects_5_0_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_5_0_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_orm_5_0_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_0_4_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud_eurekaClient/src/main/java/com/it/springcloud/eurekaClient/controller/TestController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud_eurekaClient/src/main/java/com/it/springcloud/eurekaClient/feign/productFeignClient/ProductFeignClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud_eurekaClient/src/main/java/com/it/springcloud/eurekaClient/pojo/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud_eurekaClient/src/main/resources/application-feign.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud_security_swaggerui/springcloud_security_swagger-ui.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud_security_swaggerui/src/main/java/com/it/security/swaggerUI/api/product/ProductApi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud_security_swaggerui/src/main/java/com/it/security/swaggerUI/common/response/commonResponse/ResponseBusiness.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud_security_swaggerui/src/main/java/com/it/security/swaggerUI/common/response/commonResponse/ResponseResult.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud_security_swaggerui/src/main/java/com/it/security/swaggerUI/common/response/commonResponse/ResultCode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud_security_swaggerui/src/main/java/com/it/security/swaggerUI/common/response/commonResponse/basic/Header.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud_security_swaggerui/src/main/java/com/it/security/swaggerUI/common/response/commonResponse/basic/ResponseBody.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud_security_swaggerui/src/main/java/com/it/security/swaggerUI/common/response/commonResponse/basicRes/CommonCode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud_security_swaggerui/src/main/java/com/it/security/swaggerUI/common/response/commonResponse/basicRes/ResponseHeader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud_security_swaggerui/src/main/java/com/it/security/swaggerUI/controller/productController/ProductController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud_security_swaggerui/src/main/java/com/it/security/swaggerUI/pojo/product/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud_security_swaggerui/src/main/java/com/it/security/swaggerUI/repository/productRepository/ProductRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud_security_swaggerui/src/main/java/com/it/security/swaggerUI/service/productService/ProductService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud_security_swaggerui/src/main/java/com/it/security/swaggerUI/service/productService/imp/ProductServiceImp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud_security_swaggerui/src/main/resources/application-db.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud_security_swaggerui/src/main/resources/application-eurekaClient.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/springcloud_security_swaggerui/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud_eurekaClient/src/main/java/com/it/springcloud/eurekaClient/common/request/ReqBody.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud_eurekaClient/src/main/java/com/it/springcloud/eurekaClient/common/request/RequestBussiness.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud_eurekaClient/src/main/java/com/it/springcloud/eurekaClient/common/response/commonResponse/ResponseBusiness.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud_eurekaClient/src/main/java/com/it/springcloud/eurekaClient/common/response/commonResponse/ResponseBusinessPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud_eurekaClient/src/main/java/com/it/springcloud/eurekaClient/common/response/commonResponse/ResponseResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud_eurekaClient/src/main/java/com/it/springcloud/eurekaClient/common/response/commonResponse/ResultCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud_eurekaClient/src/main/java/com/it/springcloud/eurekaClient/common/response/commonResponse/basic/RespBody.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud_eurekaClient/src/main/java/com/it/springcloud/eurekaClient/common/response/commonResponse/basic/ResponseBodyPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud_eurekaClient/src/main/java/com/it/springcloud/eurekaClient/common/response/commonResponse/basicRes/CommonCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud_eurekaClient/src/main/java/com/it/springcloud/eurekaClient/controller/ProductFeignClientController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud_eurekaClient/src/main/java/com/it/springcloud/eurekaClient/page/basicPage/Page.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud_eurekaClient/src/main/java/com/it/springcloud/eurekaClient/page/productPage/ProductPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud_eurekaClient/src/main/resources/application-db.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud_security_swaggerui/src/main/java/com/it/security/swaggerUI/common/request/ReqBody.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud_security_swaggerui/src/main/java/com/it/security/swaggerUI/common/request/RequestBussiness.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud_security_swaggerui/src/main/java/com/it/security/swaggerUI/common/response/commonResponse/ResponseBusinessPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud_security_swaggerui/src/main/java/com/it/security/swaggerUI/common/response/commonResponse/basic/ResponseBodyPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud_security_swaggerui/src/main/java/com/it/security/swaggerUI/page/basicPage/Page.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud_security_swaggerui/src/main/java/com/it/security/swaggerUI/page/productPage/ProductPage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springcloud_eurekaClient/src/main/java/com/it/springcloud/eurekaClient/EurekaClientApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud_eurekaClient/src/main/java/com/it/springcloud/eurekaClient/EurekaClientApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springcloud_eurekaClient/src/main/resources/application-eurekaClient.yml" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud_eurekaClient/src/main/resources/application-eurekaClient.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springcloud_eurekaClient/target/classes/application-eurekaClient.yml" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud_eurekaClient/target/classes/application-eurekaClient.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springcloud_eurekaClient/target/classes/com/it/springcloud/eurekaClient/EurekaClientApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud_eurekaClient/target/classes/com/it/springcloud/eurekaClient/EurekaClientApplication.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springcloud_security_swaggerui/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud_security_swaggerui/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springcloud_security_swaggerui/src/main/java/com/it/security/swaggerUI/SecuritySwaggerUIApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud_security_swaggerui/src/main/java/com/it/security/swaggerUI/SecuritySwaggerUIApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springcloud_security_swaggerui/src/main/java/com/it/security/swaggerUI/api/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/springcloud_security_swaggerui/src/main/java/com/it/security/swaggerUI/config/SpringSecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud_security_swaggerui/src/main/java/com/it/security/swaggerUI/config/SpringSecurityConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/springcloud_security_swaggerui/src/main/java/com/it/security/swaggerUI/config/Swagger2Config.java" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud_security_swaggerui/src/main/java/com/it/security/swaggerUI/config/Swagger2Config.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud_eurekaClient/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud_eurekaClient/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud_eurekaClient/springcloud_eurekaClient.iml" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud_eurekaClient/springcloud_eurekaClient.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud_eurekaClient/src/main/java/com/it/springcloud/eurekaClient/controller/TestController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud_eurekaClient/src/main/java/com/it/springcloud/eurekaClient/feign/productFeignClient/ProductFeignClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud_eurekaClient/src/main/java/com/it/springcloud/eurekaClient/feign/productFeignClient/ProductFeignClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud_eurekaClient/src/main/java/com/it/springcloud/eurekaClient/pojo/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud_eurekaClient/src/main/java/com/it/springcloud/eurekaClient/pojo/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud_eurekaClient/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud_eurekaClient/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud_eurekaClient/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud_eurekaClient/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud_security_swaggerui/src/main/java/com/it/security/swaggerUI/api/product/ProductApi.java" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud_security_swaggerui/src/main/java/com/it/security/swaggerUI/api/product/ProductApi.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud_security_swaggerui/src/main/java/com/it/security/swaggerUI/common/response/commonResponse/ResponseBusiness.java" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud_security_swaggerui/src/main/java/com/it/security/swaggerUI/common/response/commonResponse/ResponseBusiness.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud_security_swaggerui/src/main/java/com/it/security/swaggerUI/common/response/commonResponse/basic/Header.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud_security_swaggerui/src/main/java/com/it/security/swaggerUI/common/response/commonResponse/basic/ResponseBody.java" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud_security_swaggerui/src/main/java/com/it/security/swaggerUI/common/response/commonResponse/basic/RespBody.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud_security_swaggerui/src/main/java/com/it/security/swaggerUI/common/response/commonResponse/basicRes/ResponseHeader.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud_security_swaggerui/src/main/java/com/it/security/swaggerUI/controller/productController/ProductController.java" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud_security_swaggerui/src/main/java/com/it/security/swaggerUI/controller/productController/ProductController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud_security_swaggerui/src/main/java/com/it/security/swaggerUI/service/productService/ProductService.java" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud_security_swaggerui/src/main/java/com/it/security/swaggerUI/service/productService/ProductService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/springcloud_security_swaggerui/src/main/java/com/it/security/swaggerUI/service/productService/imp/ProductServiceImp.java" beforeDir="false" afterPath="$PROJECT_DIR$/springcloud_security_swaggerui/src/main/java/com/it/security/swaggerUI/service/productService/imp/ProductServiceImp.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/spring_cloud_eurekaServer/target/" />
     <ignored path="$PROJECT_DIR$/springcloud_eurekaClient/target/" />
@@ -111,64 +75,90 @@
     <session id="-1780021641">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="5" />
           <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.16" value="1" />
           <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.9" value="2" />
-          <entry key="project.opened" value="6" />
+          <entry key="project.opened" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="58" />
-          <entry key="java" value="6216" />
+          <entry key="dummy" value="104" />
+          <entry key="java" value="8995" />
           <entry key="sql" value="132" />
-          <entry key="txt" value="84" />
-          <entry key="xml" value="114" />
-          <entry key="yml" value="406" />
+          <entry key="txt" value="99" />
+          <entry key="xml" value="148" />
+          <entry key="yml" value="409" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="6216" />
-          <entry key="PLAIN_TEXT" value="142" />
+          <entry key="JAVA" value="8995" />
+          <entry key="PLAIN_TEXT" value="203" />
           <entry key="SQL" value="8" />
           <entry key="Scratch" value="124" />
-          <entry key="XML" value="114" />
-          <entry key="YAML" value="406" />
+          <entry key="XML" value="148" />
+          <entry key="YAML" value="409" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="admin" value="1" />
-          <entry key="class" value="17" />
+          <entry key="class" value="18" />
           <entry key="iml" value="3" />
-          <entry key="java" value="130" />
+          <entry key="java" value="298" />
           <entry key="product" value="4" />
-          <entry key="sql" value="5" />
+          <entry key="sql" value="10" />
           <entry key="user" value="1" />
-          <entry key="xml" value="9" />
-          <entry key="yml" value="22" />
+          <entry key="xml" value="10" />
+          <entry key="yml" value="28" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CLASS" value="17" />
+          <entry key="CLASS" value="18" />
           <entry key="Database Element" value="6" />
           <entry key="IDEA_MODULE" value="3" />
-          <entry key="JAVA" value="130" />
+          <entry key="JAVA" value="298" />
           <entry key="PLAIN_TEXT" value="2" />
           <entry key="SQL" value="1" />
-          <entry key="Scratch" value="4" />
-          <entry key="XML" value="9" />
-          <entry key="YAML" value="20" />
+          <entry key="Scratch" value="9" />
+          <entry key="XML" value="10" />
+          <entry key="YAML" value="26" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/springcloud_security_swaggerui/src/main/java/com/it/security/swaggerUI/service/productService/imp/ProductServiceImp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="287">
+              <caret line="58" column="73" selection-start-line="58" selection-start-column="73" selection-end-line="58" selection-end-column="73" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/springcloud_security_swaggerui/src/main/java/com/it/security/swaggerUI/controller/productController/ProductController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-411">
+              <caret line="48" column="54" lean-forward="true" selection-start-line="48" selection-start-column="54" selection-end-line="48" selection-end-column="54" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -187,6 +177,7 @@
       <find>test模块包含的接口</find>
       <find>conte</find>
       <find>getContent</find>
+      <find>findall</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -199,35 +190,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/springcloud_security_swaggerui/src/main/java/com/it/security/swaggerUI/SecuritySwaggerUIApplication.java" />
-        <option value="$PROJECT_DIR$/springcloud_security_swaggerui/src/main/java/com/it/security/swaggerUI/config/SpringSecurityConfig.java" />
-        <option value="$PROJECT_DIR$/springcloud_security_swaggerui/src/main/java/com/it/security/swaggerUI/controller/TestController.java" />
-        <option value="$PROJECT_DIR$/springcloud_eurekaClient/src/main/java/com/it/springcloud/eurekaClient/feign/FeignApiClient.java" />
-        <option value="$PROJECT_DIR$/springcloud_eurekaClient/src/main/java/com/it/springcloud/eurekaClient/controller/TestController.java" />
-        <option value="$PROJECT_DIR$/springcloud_security_swaggerui/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/springcloud_security_swaggerui/pom.xml" />
-        <option value="$PROJECT_DIR$/springcloud_security_swaggerui/src/main/resources/application-db.yml" />
-        <option value="$PROJECT_DIR$/springcloud_security_swaggerui/src/main/java/com/it/security/swaggerUI/repository/userRepository/UserRepository.java" />
-        <option value="$PROJECT_DIR$/springcloud_security_swaggerui/src/main/java/com/it/security/swaggerUI/repository/productRepository/UserRepository.java" />
-        <option value="$PROJECT_DIR$/springcloud_security_swaggerui/src/main/java/com/it/security/swaggerUI/repository/productRepository/ProductRepository.java" />
-        <option value="$PROJECT_DIR$/springcloud_security_swaggerui/src/main/java/com/it/security/swaggerUI/api/InterfaceApi.java" />
-        <option value="$PROJECT_DIR$/springcloud_eurekaClient/src/main/java/com/it/springcloud/eurekaClient/pojo/Product.java" />
-        <option value="$PROJECT_DIR$/springcloud_eurekaClient/pom.xml" />
-        <option value="$PROJECT_DIR$/springcloud_eurekaClient/src/main/resources/application-feign.yml" />
-        <option value="$PROJECT_DIR$/springcloud_security_swaggerui/src/main/java/com/it/security/swaggerUI/pojo/product/Product.java" />
-        <option value="a550626a-dabc-4079-8f5d-8bc10fd0e26d/schema/ssm/table/product.sql" />
-        <option value="$PROJECT_DIR$/springcloud_eurekaClient/src/main/java/com/it/springcloud/eurekaClient/feign/productFeignClient/ProductFeignClient.java" />
-        <option value="$PROJECT_DIR$/springcloud_security_swaggerui/src/main/java/com/it/security/swaggerUI/common/PageRequest.java" />
-        <option value="$PROJECT_DIR$/springcloud_security_swaggerui/src/main/java/com/it/security/swaggerUI/config/Swagger2Config.java" />
-        <option value="$PROJECT_DIR$/springcloud_security_swaggerui/src/main/java/com/it/security/swaggerUI/commResponse/ResponseResultCode.java" />
-        <option value="$PROJECT_DIR$/springcloud_security_swaggerui/src/main/java/com/it/security/swaggerUI/commResponse/BasicResponseCode.java" />
-        <option value="$PROJECT_DIR$/springcloud_security_swaggerui/src/main/java/com/it/security/swaggerUI/responseResult/common/ResponseResult.java" />
-        <option value="$PROJECT_DIR$/springcloud_security_swaggerui/src/main/java/com/it/security/swaggerUI/commResponse/ResponseCode.java" />
-        <option value="$PROJECT_DIR$/springcloud_security_swaggerui/src/main/java/com/it/security/swaggerUI/commResponse/ResponseResult.java" />
-        <option value="$PROJECT_DIR$/springcloud_security_swaggerui/src/main/java/com/it/security/swaggerUI/commResponse/CommonCode.java" />
-        <option value="$PROJECT_DIR$/springcloud_security_swaggerui/src/main/java/com/it/security/swaggerUI/aaa/ResponseResult.java" />
-        <option value="$PROJECT_DIR$/springcloud_security_swaggerui/src/main/java/com/it/security/swaggerUI/aaa/Response.java" />
-        <option value="$PROJECT_DIR$/springcloud_security_swaggerui/src/main/java/com/it/security/swaggerUI/aaa/ResultCode.java" />
         <option value="$PROJECT_DIR$/springcloud_security_swaggerui/src/main/java/com/it/security/swaggerUI/aaa/CommonCode.java" />
         <option value="$PROJECT_DIR$/springcloud_security_swaggerui/src/main/java/com/it/security/swaggerUI/common/ResponseResult.java" />
         <option value="$APPLICATION_CONFIG_DIR$/consoles/db/a550626a-dabc-4079-8f5d-8bc10fd0e26d/console.sql" />
@@ -236,20 +198,49 @@
         <option value="$PROJECT_DIR$/springcloud_security_swaggerui/src/main/java/com/it/security/swaggerUI/response/ResponseResult.java" />
         <option value="$PROJECT_DIR$/springcloud_security_swaggerui/src/main/java/com/it/security/swaggerUI/response/commonResponse/ResponseResult.java" />
         <option value="$PROJECT_DIR$/springcloud_security_swaggerui/src/main/java/com/it/security/swaggerUI/common/response/productResponse/ProductResponseResult.java" />
-        <option value="$PROJECT_DIR$/springcloud_security_swaggerui/src/main/java/com/it/security/swaggerUI/service/productService/ProductService.java" />
-        <option value="$PROJECT_DIR$/springcloud_security_swaggerui/src/main/java/com/it/security/swaggerUI/service/productService/imp/ProductServiceImp.java" />
         <option value="$PROJECT_DIR$/springcloud_security_swaggerui/src/main/java/com/it/security/swaggerUI/common/response/commonResponse/Response.java" />
         <option value="$PROJECT_DIR$/springcloud_security_swaggerui/src/main/java/com/it/security/swaggerUI/common/response/commonResponse/ResponseBody.java" />
         <option value="$PROJECT_DIR$/springcloud_security_swaggerui/src/main/java/com/it/security/swaggerUI/common/response/commonResponse/CommonResponse.java" />
         <option value="$PROJECT_DIR$/springcloud_security_swaggerui/src/main/java/com/it/security/swaggerUI/common/response/commonResponse/ResultCode.java" />
         <option value="$PROJECT_DIR$/springcloud_security_swaggerui/src/main/java/com/it/security/swaggerUI/common/response/commonResponse/CommonCode.java" />
-        <option value="$PROJECT_DIR$/springcloud_security_swaggerui/src/main/java/com/it/security/swaggerUI/common/response/commonResponse/ResponseBusiness.java" />
         <option value="$PROJECT_DIR$/springcloud_security_swaggerui/src/main/java/com/it/security/swaggerUI/common/response/commonResponse/BasicHeader.java" />
         <option value="$PROJECT_DIR$/springcloud_security_swaggerui/src/main/java/com/it/security/swaggerUI/common/response/commonResponse/ResponseHeader.java" />
         <option value="$PROJECT_DIR$/springcloud_security_swaggerui/src/main/java/com/it/security/swaggerUI/common/response/commonResponse/Header.java" />
-        <option value="$PROJECT_DIR$/springcloud_security_swaggerui/src/main/java/com/it/security/swaggerUI/api/product/ProductApi.java" />
-        <option value="$PROJECT_DIR$/springcloud_security_swaggerui/src/main/java/com/it/security/swaggerUI/controller/productController/ProductController.java" />
+        <option value="$PROJECT_DIR$/springcloud_security_swaggerui/src/main/java/com/it/security/swaggerUI/common/request/RequestBody.java" />
+        <option value="$PROJECT_DIR$/springcloud_security_swaggerui/src/main/java/com/it/security/swaggerUI/common/request/responseHeader.java" />
+        <option value="$PROJECT_DIR$/springcloud_security_swaggerui/src/main/java/com/it/security/swaggerUI/common/request/ReqBody.java" />
+        <option value="$PROJECT_DIR$/springcloud_eurekaClient/src/main/java/com/it/springcloud/eurekaClient/common/response/commonResponse/basicRes/CommonCode.java" />
+        <option value="$PROJECT_DIR$/springcloud_eurekaClient/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/springcloud_eurekaClient/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud_eurekaClient/src/main/java/com/it/springcloud/eurekaClient/controller/ProductFeignClient.java" />
+        <option value="$PROJECT_DIR$/springcloud_eurekaClient/src/main/java/com/it/springcloud/eurekaClient/common/request/ReqBody.java" />
+        <option value="$PROJECT_DIR$/springcloud_eurekaClient/src/main/java/com/it/springcloud/eurekaClient/pojo/Product.java" />
+        <option value="$PROJECT_DIR$/springcloud_eurekaClient/src/main/java/com/it/springcloud/eurekaClient/common/response/commonResponse/ResponseResult.java" />
+        <option value="$PROJECT_DIR$/springcloud_security_swaggerui/src/main/java/com/it/security/swaggerUI/common/request/RequestBussiness.java" />
+        <option value="$PROJECT_DIR$/springcloud_eurekaClient/src/main/java/com/it/springcloud/eurekaClient/common/request/ReqHeader.java" />
+        <option value="$PROJECT_DIR$/springcloud_eurekaClient/src/main/java/com/it/springcloud/eurekaClient/common/request/RequestBussiness.java" />
+        <option value="$PROJECT_DIR$/springcloud_security_swaggerui/src/main/java/com/it/security/swaggerUI/common/response/ProductPage.java" />
+        <option value="$PROJECT_DIR$/springcloud_eurekaClient/src/main/java/com/it/springcloud/eurekaClient/common/response/commonResponse/ProductPage.java" />
+        <option value="$PROJECT_DIR$/springcloud_security_swaggerui/src/main/java/com/it/security/swaggerUI/common/response/commonResponse/Page.java" />
+        <option value="$PROJECT_DIR$/springcloud_eurekaClient/src/main/java/com/it/springcloud/eurekaClient/common/response/commonResponse/Page.java" />
+        <option value="$PROJECT_DIR$/springcloud_eurekaClient/src/main/java/com/it/springcloud/eurekaClient/common/response/commonResponse/ResponseBusiness.java" />
+        <option value="$PROJECT_DIR$/springcloud_eurekaClient/src/main/java/com/it/springcloud/eurekaClient/common/response/commonResponse/basic/ResponseBody.java" />
         <option value="$PROJECT_DIR$/springcloud_security_swaggerui/src/main/java/com/it/security/swaggerUI/common/response/commonResponse/ResponseResult.java" />
+        <option value="$PROJECT_DIR$/springcloud_security_swaggerui/src/main/java/com/it/security/swaggerUI/page/basicPage/Page.java" />
+        <option value="$PROJECT_DIR$/springcloud_eurekaClient/src/main/java/com/it/springcloud/eurekaClient/page/productPage/ProductPage.java" />
+        <option value="$PROJECT_DIR$/springcloud_security_swaggerui/src/main/java/com/it/security/swaggerUI/common/response/commonResponse/basic/ResponseBody.java" />
+        <option value="$PROJECT_DIR$/springcloud_security_swaggerui/src/main/java/com/it/security/swaggerUI/api/product/ProductApi.java" />
+        <option value="$PROJECT_DIR$/springcloud_security_swaggerui/src/main/java/com/it/security/swaggerUI/service/productService/ProductService.java" />
+        <option value="$PROJECT_DIR$/springcloud_security_swaggerui/src/main/java/com/it/security/swaggerUI/common/response/commonResponse/ResponseBusiness.java" />
+        <option value="$PROJECT_DIR$/springcloud_security_swaggerui/src/main/java/com/it/security/swaggerUI/common/response/commonResponse/basic/ResponseBodyPage.java" />
+        <option value="$PROJECT_DIR$/springcloud_security_swaggerui/src/main/java/com/it/security/swaggerUI/common/response/commonResponse/ResponseBusinessPage.java" />
+        <option value="$PROJECT_DIR$/springcloud_eurekaClient/src/main/java/com/it/springcloud/eurekaClient/common/response/commonResponse/basic/RespBody.java" />
+        <option value="$PROJECT_DIR$/springcloud_eurekaClient/src/main/java/com/it/springcloud/eurekaClient/common/response/commonResponse/basic/ResponseBodyPage.java" />
+        <option value="$PROJECT_DIR$/springcloud_eurekaClient/src/main/java/com/it/springcloud/eurekaClient/common/response/commonResponse/ResponseBusinessPage.java" />
+        <option value="$PROJECT_DIR$/springcloud_eurekaClient/src/main/java/com/it/springcloud/eurekaClient/feign/productFeignClient/ProductFeignClient.java" />
+        <option value="$PROJECT_DIR$/springcloud_eurekaClient/src/main/java/com/it/springcloud/eurekaClient/controller/ProductFeignClientController.java" />
+        <option value="$PROJECT_DIR$/springcloud_security_swaggerui/src/main/java/com/it/security/swaggerUI/service/productService/imp/ProductServiceImp.java" />
+        <option value="$PROJECT_DIR$/springcloud_security_swaggerui/src/main/java/com/it/security/swaggerUI/controller/productController/ProductController.java" />
       </list>
     </option>
   </component>
@@ -304,7 +295,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -459,6 +449,93 @@
               <item name="it" type="462c0819:PsiDirectoryNode" />
               <item name="springcloud" type="462c0819:PsiDirectoryNode" />
               <item name="eurekaClient" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud_eurekaClient" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="it" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud" type="462c0819:PsiDirectoryNode" />
+              <item name="eurekaClient" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="response" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud_eurekaClient" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="it" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud" type="462c0819:PsiDirectoryNode" />
+              <item name="eurekaClient" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="response" type="462c0819:PsiDirectoryNode" />
+              <item name="commonResponse" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud_eurekaClient" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="it" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud" type="462c0819:PsiDirectoryNode" />
+              <item name="eurekaClient" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="response" type="462c0819:PsiDirectoryNode" />
+              <item name="commonResponse" type="462c0819:PsiDirectoryNode" />
+              <item name="basic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud_eurekaClient" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="it" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud" type="462c0819:PsiDirectoryNode" />
+              <item name="eurekaClient" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="response" type="462c0819:PsiDirectoryNode" />
+              <item name="commonResponse" type="462c0819:PsiDirectoryNode" />
+              <item name="basicRes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud_eurekaClient" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="it" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud" type="462c0819:PsiDirectoryNode" />
+              <item name="eurekaClient" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud_eurekaClient" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="it" type="462c0819:PsiDirectoryNode" />
+              <item name="springcloud" type="462c0819:PsiDirectoryNode" />
+              <item name="eurekaClient" type="462c0819:PsiDirectoryNode" />
               <item name="feign" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -486,7 +563,7 @@
               <item name="it" type="462c0819:PsiDirectoryNode" />
               <item name="springcloud" type="462c0819:PsiDirectoryNode" />
               <item name="eurekaClient" type="462c0819:PsiDirectoryNode" />
-              <item name="pojo" type="462c0819:PsiDirectoryNode" />
+              <item name="page" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="springcloud" type="b2602c69:ProjectViewProjectNode" />
@@ -644,7 +721,10 @@
               <item name="it" type="462c0819:PsiDirectoryNode" />
               <item name="security" type="462c0819:PsiDirectoryNode" />
               <item name="swaggerUI" type="462c0819:PsiDirectoryNode" />
-              <item name="config" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+              <item name="response" type="462c0819:PsiDirectoryNode" />
+              <item name="commonResponse" type="462c0819:PsiDirectoryNode" />
+              <item name="basic" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="springcloud" type="b2602c69:ProjectViewProjectNode" />
@@ -672,19 +752,6 @@
               <item name="swaggerUI" type="462c0819:PsiDirectoryNode" />
               <item name="controller" type="462c0819:PsiDirectoryNode" />
               <item name="productController" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springcloud" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springcloud" type="462c0819:PsiDirectoryNode" />
-              <item name="springcloud_security_swaggerui" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="it" type="462c0819:PsiDirectoryNode" />
-              <item name="security" type="462c0819:PsiDirectoryNode" />
-              <item name="swaggerUI" type="462c0819:PsiDirectoryNode" />
-              <item name="pojo" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="springcloud" type="b2602c69:ProjectViewProjectNode" />
@@ -748,6 +815,7 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -758,7 +826,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1616138752152" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1616228823929" />
     <property name="database.console.LAST_STATE" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../xc" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -769,7 +837,14 @@
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.it.springcloud.eurekaClient.common.response.commonResponse.basic" />
+      <recent name="com.it.springcloud.eurekaClient.common.response.commonResponse" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\java\workPlace\ideaWorkPlace\springcloud\springcloud_eurekaClient\src\main\java\com\it\springcloud\eurekaClient\common\response\commonResponse" />
+      <recent name="D:\java\workPlace\ideaWorkPlace\springcloud\springcloud_eurekaClient\src\main\resources" />
+      <recent name="D:\java\workPlace\ideaWorkPlace\springcloud\springcloud_eurekaClient\src\main\java\com\it\springcloud\eurekaClient" />
       <recent name="D:\java\workPlace\ideaWorkPlace\springcloud\springcloud_security_swaggerui\src\main\java\com\it\security\swaggerUI\aaa" />
       <recent name="D:\java\workPlace\ideaWorkPlace\springcloud\springcloud_security_swaggerui\src\main\resources" />
     </key>
@@ -786,7 +861,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.SecuritySwaggerUIClient">
+  <component name="RunManager" selected="Spring Boot.eurekaFeignClient">
     <configuration name="SecuritySwaggerUIClient" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true">
       <module name="springcloud_security_swagger-ui" />
       <extension name="coverage">
@@ -861,8 +936,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Spring Boot.SecuritySwaggerUIClient" />
         <item itemvalue="Spring Boot.eurekaFeignClient" />
+        <item itemvalue="Spring Boot.SecuritySwaggerUIClient" />
         <item itemvalue="Spring Boot.eurekaServer1" />
       </list>
     </recent_temporary>
@@ -882,7 +957,8 @@
       <workItem from="1615969446893" duration="414000" />
       <workItem from="1616031215359" duration="22091000" />
       <workItem from="1616074912301" duration="6683000" />
-      <workItem from="1616117230329" duration="18275000" />
+      <workItem from="1616117230329" duration="25904000" />
+      <workItem from="1616211441391" duration="17322000" />
     </task>
     <task id="LOCAL-00001" summary="springCloud微服务 Eureka注册中心学习   注册中心服务端高可用环境搭建/注册中心客户端环境搭建">
       <created>1615898093682</created>
@@ -898,17 +974,25 @@
       <option name="project" value="LOCAL" />
       <updated>1615905360385</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="springCloud微服务 统一响应信息的设置">
+      <created>1616138845611</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1616138845611</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="55579000" />
+    <option name="totallyTimeSpent" value="80530000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="704" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3581245" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4964789" visible="true" weight="0.3371059" />
+      <window_info id="Structure" order="1" sideWeight="0.50352114" side_tool="true" weight="0.31204528" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="UI Designer" order="4" />
@@ -916,20 +1000,20 @@
       <window_info id="Capture Tool" order="6" />
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32846716" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32867134" />
-      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.3558394" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.310219" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Spring" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="10" weight="0.29927006" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.48175183" />
       <window_info anchor="bottom" id="Java Enterprise" order="11" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
       <window_info anchor="bottom" id="Version Control" order="13" />
-      <window_info anchor="bottom" id="Database Console" order="14" weight="0.30839416" />
+      <window_info anchor="bottom" id="Database Console" order="14" weight="0.66423357" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -950,7 +1034,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="springCloud微服务 Eureka注册中心学习   注册中心服务端高可用环境搭建/注册中心客户端环境搭建" />
-    <option name="LAST_COMMIT_MESSAGE" value="springCloud微服务 Eureka注册中心学习   注册中心服务端高可用环境搭建/注册中心客户端环境搭建" />
+    <MESSAGE value="springCloud微服务 统一响应信息的设置" />
+    <option name="LAST_COMMIT_MESSAGE" value="springCloud微服务 统一响应信息的设置" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -968,40 +1053,40 @@
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/springcloud_eurekaClient/src/main/java/com/it/springcloud/eurekaClient/controller/TestController.java</url>
-          <line>17</line>
-          <properties />
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/springcloud_eurekaClient/src/main/java/com/it/springcloud/eurekaClient/controller/TestController.java</url>
-          <line>18</line>
-          <properties />
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/springcloud_security_swaggerui/src/main/java/com/it/security/swaggerUI/service/productService/imp/ProductServiceImp.java</url>
-          <line>23</line>
-          <properties />
-          <option name="timeStamp" value="5" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/springcloud_security_swaggerui/src/main/java/com/it/security/swaggerUI/controller/productController/ProductController.java</url>
-          <line>32</line>
+          <line>30</line>
           <properties />
           <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/springcloud_security_swaggerui/src/main/java/com/it/security/swaggerUI/controller/productController/ProductController.java</url>
-          <line>77</line>
+          <url>file://$PROJECT_DIR$/springcloud_eurekaClient/src/main/java/com/it/springcloud/eurekaClient/controller/ProductFeignClientController.java</url>
+          <line>16</line>
           <properties />
-          <option name="timeStamp" value="8" />
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/springcloud_eurekaClient/src/main/java/com/it/springcloud/eurekaClient/controller/ProductFeignClientController.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="17" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/springcloud_security_swaggerui/src/main/java/com/it/security/swaggerUI/controller/productController/ProductController.java</url>
-          <line>60</line>
+          <line>71</line>
           <properties />
-          <option name="timeStamp" value="14" />
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/springcloud_security_swaggerui/src/main/java/com/it/security/swaggerUI/service/productService/imp/ProductServiceImp.java</url>
+          <line>40</line>
+          <properties />
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/springcloud_security_swaggerui/src/main/java/com/it/security/swaggerUI/controller/productController/ProductController.java</url>
+          <line>55</line>
+          <properties />
+          <option name="timeStamp" value="25" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -1012,294 +1097,142 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="das://a550626a-dabc-4079-8f5d-8bc10fd0e26d/schema/ssm/table/admin" />
-    <entry file="das://a550626a-dabc-4079-8f5d-8bc10fd0e26d/schema/ssm/table/product.sql" />
-    <entry file="das://a550626a-dabc-4079-8f5d-8bc10fd0e26d/schema/ssm/table/product" />
-    <entry file="file://$PROJECT_DIR$/springcloud_security_swaggerui/src/main/java/com/it/security/swaggerUI/controller/testController/TestController.java" />
-    <entry file="file://$PROJECT_DIR$/springcloud_security_swaggerui/src/main/java/com/it/security/swaggerUI/repository/productRepository/ProductRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-commons/2.0.5.RELEASE/spring-data-commons-2.0.5.RELEASE.jar!/org/springframework/data/domain/Pageable.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="5" column="21" lean-forward="true" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-commons/2.0.5.RELEASE/spring-data-commons-2.0.5.RELEASE.jar!/org/springframework/data/domain/AbstractPageRequest.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-commons/2.0.5.RELEASE/spring-data-commons-2.0.5.RELEASE.jar!/org/springframework/data/domain/PageRequest.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="16" column="11" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-jpa/2.0.5.RELEASE/spring-data-jpa-2.0.5.RELEASE-sources.jar!/org/springframework/data/jpa/repository/support/SimpleJpaRepository.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="384" column="19" selection-start-line="384" selection-start-column="19" selection-end-line="384" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-commons/2.0.5.RELEASE/spring-data-commons-2.0.5.RELEASE.jar!/org/springframework/data/repository/PagingAndSortingRepository.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="15" column="12" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springcloud_eurekaClient/src/main/java/com/it/springcloud/eurekaClient/feign/productFeignClient/ProductFeignClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spring_cloud_eurekaServer/src/main/java/com/it/springcloud/eurekaServer/EurekaServerApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springcloud_eurekaClient/src/main/java/com/it/springcloud/eurekaClient/feign/FeignApiClient.java" />
-    <entry file="file://$PROJECT_DIR$/springcloud_security_swaggerui/springcloud_security_swagger-ui.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3072" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springcloud_security_swaggerui/src/main/java/com/it/security/swaggerUI/SecuritySwaggerUIApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springcloud_security_swaggerui/src/main/java/com/it/security/swaggerUI/config/SpringSecurityConfig.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-116">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springcloud_security_swaggerui/src/main/java/com/it/security/swaggerUI/commResponse/PageRequest.java" />
-    <entry file="jar://$PROJECT_DIR$/../../../javaDevelopment/jdk8/jdk/src.zip!/javax/xml/ws/Response.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="157">
-          <caret line="43" column="17" selection-start-line="43" selection-start-column="17" selection-end-line="43" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springcloud_security_swaggerui/src/main/java/com/it/security/swaggerUI/commResponse/CommonCode.java" />
-    <entry file="file://$PROJECT_DIR$/springcloud_security_swaggerui/src/main/java/com/it/security/swaggerUI/commResponse/ResponseResult.java" />
-    <entry file="file://$PROJECT_DIR$/springcloud_security_swaggerui/src/main/java/com/it/security/swaggerUI/commResponse/ResponseCode.java" />
-    <entry file="file://$PROJECT_DIR$/springcloud_security_swaggerui/src/main/java/com/it/security/swaggerUI/config/Swagger2Config.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="106">
-          <caret line="23" column="78" lean-forward="true" selection-start-line="23" selection-start-column="78" selection-end-line="23" selection-end-column="78" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springcloud_security_swaggerui/src/main/resources/application-eurekaClient.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springcloud_security_swaggerui/src/main/resources/application-db.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="140">
-          <caret line="12" column="22" lean-forward="true" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springcloud_security_swaggerui/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springcloud_security_swaggerui/src/main/java/com/it/security/swaggerUI/common/Response.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/a550626a-dabc-4079-8f5d-8bc10fd0e26d/console.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springcloud_security_swaggerui/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="50" column="21" lean-forward="true" selection-start-line="50" selection-start-column="21" selection-end-line="50" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springcloud_security_swaggerui/src/main/java/com/it/security/swaggerUI/common/response/productResponse/ProductResponseResult.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springcloud_security_swaggerui/src/main/java/com/it/security/swaggerUI/service/productService/ProductService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="16" column="11" lean-forward="true" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springcloud_security_swaggerui/src/main/java/com/it/security/swaggerUI/pojo/product/Product.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.4.RELEASE/spring-web-5.0.4.RELEASE-sources.jar!/org/springframework/web/method/support/InvocableHandlerMethod.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="135" selection-start-line="135" selection-end-line="135" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springcloud_security_swaggerui/src/main/java/com/it/security/swaggerUI/common/response/commonResponse/CommonResponse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="12" column="19" lean-forward="true" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springcloud_security_swaggerui/src/main/java/com/it/security/swaggerUI/common/response/commonResponse/ResultCode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/netflix/ribbon/ribbon-httpclient/2.2.5/ribbon-httpclient-2.2.5.jar!/com/netflix/client/http/HttpResponse.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="22" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../../javaDevelopment/jdk8/jdk/src.zip!/java/io/Closeable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="123">
-          <caret line="36" column="17" selection-start-line="36" selection-start-column="17" selection-end-line="36" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/netflix/ribbon/ribbon-core/2.2.5/ribbon-core-2.2.5.jar!/com/netflix/client/IResponse.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="11" column="30" lean-forward="true" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/com/netflix/ribbon/ribbon-httpclient/2.2.5/ribbon-httpclient-2.2.5-sources.jar!/com/netflix/client/http/HttpResponse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="34" column="42" selection-start-line="34" selection-start-column="42" selection-end-line="34" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/springcloud_security_swaggerui/src/main/java/com/it/security/swaggerUI/common/response/commonResponse/BasicHeader.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-commons/2.0.5.RELEASE/spring-data-commons-2.0.5.RELEASE.jar!/org/springframework/data/domain/Page.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-commons/2.0.5.RELEASE/spring-data-commons-2.0.5.RELEASE-sources.jar!/org/springframework/data/domain/Page.java">
+    <entry file="file://$PROJECT_DIR$/springcloud_eurekaClient/src/main/java/com/it/springcloud/eurekaClient/common/response/commonResponse/ResultCode.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-commons/2.0.5.RELEASE/spring-data-commons-2.0.5.RELEASE-sources.jar!/org/springframework/data/domain/Pageable.java">
+    <entry file="file://$PROJECT_DIR$/springcloud_eurekaClient/src/main/java/com/it/springcloud/eurekaClient/common/response/commonResponse/basicRes/CommonCode.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="32" column="7" lean-forward="true" selection-start-line="32" selection-start-column="7" selection-end-line="32" selection-end-column="7" />
+        <state relative-caret-position="38">
+          <caret line="4" column="39" selection-start-line="4" selection-start-column="39" selection-end-line="4" selection-end-column="39" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/springcloud_security_swaggerui/src/main/java/com/it/security/swaggerUI/common/response/commonResponse/basicRes/ResponseHeader.java">
+    <entry file="file://$PROJECT_DIR$/springcloud_eurekaClient/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="17" lean-forward="true" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
-          <folding>
-            <element signature="e#174#175#0" expanded="true" />
-            <element signature="e#211#212#0" expanded="true" />
-            <element signature="e#266#267#0" expanded="true" />
-            <element signature="e#318#319#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="38">
+          <caret line="2" column="27" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/springcloud_security_swaggerui/src/main/java/com/it/security/swaggerUI/common/response/commonResponse/basic/ResponseBody.java">
+    <entry file="file://$PROJECT_DIR$/springcloud_eurekaClient/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="46" column="44" selection-start-line="46" selection-start-column="44" selection-end-line="46" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud_eurekaClient/src/main/resources/application-db.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/netflix/eureka/eureka-client/1.9.3/eureka-client-1.9.3.jar!/com/netflix/discovery/TimedSupervisorTask.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="55" selection-start-line="55" selection-end-line="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud_eurekaClient/src/main/java/com/it/springcloud/eurekaClient/EurekaClientApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud_eurekaClient/src/main/resources/application-feign.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud_eurekaClient/src/main/java/com/it/springcloud/eurekaClient/common/response/commonResponse/basicRes/ResponseHeader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud_eurekaClient/src/main/java/com/it/springcloud/eurekaClient/common/response/commonResponse/basic/Header.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
           <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/springcloud_security_swaggerui/src/main/java/com/it/security/swaggerUI/common/response/commonResponse/ResponseBusiness.java">
+    <entry file="file://$PROJECT_DIR$/spring_cloud_eurekaServer/src/main/java/com/it/springcloud/eurekaServer/EurekaServerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud_eurekaClient/src/main/resources/application-eurekaClient.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="13" column="13" lean-forward="true" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.0.4.RELEASE/spring-web-5.0.4.RELEASE-sources.jar!/org/springframework/web/method/support/InvocableHandlerMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="217" selection-start-line="217" selection-end-line="217" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud_eurekaClient/src/main/java/com/it/springcloud/eurekaClient/common/response/commonResponse/ResponseResult.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="27" column="37" lean-forward="true" selection-start-line="27" selection-start-column="37" selection-end-line="27" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud_eurekaClient/src/main/java/com/it/springcloud/eurekaClient/common/request/ReqHeader.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
-          <caret line="8" column="22" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+          <caret line="5" column="24" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud_eurekaClient/src/main/java/com/it/springcloud/eurekaClient/common/request/ReqBody.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="11" column="31" lean-forward="true" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-jpa/2.0.5.RELEASE/spring-data-jpa-2.0.5.RELEASE-sources.jar!/org/springframework/data/jpa/repository/JpaRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="518">
+          <caret line="109" column="38" lean-forward="true" selection-start-line="109" selection-start-column="38" selection-end-line="109" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud_security_swaggerui/src/main/java/com/it/security/swaggerUI/repository/productRepository/ProductRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-commons/2.0.5.RELEASE/spring-data-commons-2.0.5.RELEASE-sources.jar!/org/springframework/data/domain/AbstractPageRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="27" column="22" selection-start-line="27" selection-start-column="22" selection-end-line="27" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-commons/2.0.5.RELEASE/spring-data-commons-2.0.5.RELEASE-sources.jar!/org/springframework/data/domain/PageRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="26" column="42" lean-forward="true" selection-start-line="26" selection-start-column="42" selection-end-line="26" selection-end-column="42" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#289#290#0" expanded="true" />
-            <element signature="e#326#327#0" expanded="true" />
-            <element signature="e#397#398#0" expanded="true" />
-            <element signature="e#449#450#0" expanded="true" />
+            <element signature="e#1371#1372#0" expanded="true" />
+            <element signature="e#1411#1412#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/springcloud_security_swaggerui/src/main/java/com/it/security/swaggerUI/common/response/commonResponse/ResponseResult.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-commons/2.0.5.RELEASE/spring-data-commons-2.0.5.RELEASE-sources.jar!/org/springframework/data/domain/Pageable.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="94">
-          <caret line="5" column="27" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="27" />
-          <folding>
-            <element signature="e#331#332#0" expanded="true" />
-            <element signature="e#358#359#0" expanded="true" />
-            <element signature="e#398#399#0" expanded="true" />
-            <element signature="e#430#431#0" expanded="true" />
-            <element signature="e#464#465#0" expanded="true" />
-            <element signature="e#494#495#0" expanded="true" />
-            <element signature="e#540#541#0" expanded="true" />
-            <element signature="e#578#579#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="190">
+          <caret line="26" column="17" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -1310,46 +1243,265 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/springcloud_security_swaggerui/src/main/java/com/it/security/swaggerUI/common/response/commonResponse/basic/Header.java">
+    <entry file="file://$PROJECT_DIR$/springcloud_security_swaggerui/src/main/java/com/it/security/swaggerUI/common/response/commonResponse/basicRes/ResponseHeader.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        <state relative-caret-position="152">
+          <caret line="11" column="17" lean-forward="true" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud_eurekaClient/src/main/java/com/it/springcloud/eurekaClient/common/request/RequestBussiness.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud_security_swaggerui/src/main/java/com/it/security/swaggerUI/common/request/RequestBussiness.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="54" lean-forward="true" selection-start-line="10" selection-start-column="54" selection-end-line="10" selection-end-column="54" />
           <folding>
-            <element signature="e#209#210#0" expanded="true" />
-            <element signature="e#240#241#0" expanded="true" />
-            <element signature="e#294#295#0" expanded="true" />
-            <element signature="e#334#335#0" expanded="true" />
+            <element signature="e#163#164#0" expanded="true" />
+            <element signature="e#197#198#0" expanded="true" />
+            <element signature="e#255#256#0" expanded="true" />
+            <element signature="e#301#302#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/springcloud_security_swaggerui/src/main/java/com/it/security/swaggerUI/controller/productController/ProductController.java">
+    <entry file="file://$PROJECT_DIR$/springcloud_eurekaClient/src/main/java/com/it/springcloud/eurekaClient/pojo/Product.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="262">
-          <caret line="90" column="54" selection-start-line="90" selection-start-column="44" selection-end-line="90" selection-end-column="54" />
+        <state relative-caret-position="304">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud_eurekaClient/src/main/java/com/it/springcloud/eurekaClient/common/response/commonResponse/ResponseBusiness.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="7" column="41" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-commons/2.0.5.RELEASE/spring-data-commons-2.0.5.RELEASE-sources.jar!/org/springframework/data/domain/Page.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="27" column="17" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud_security_swaggerui/src/main/java/com/it/security/swaggerUI/common/response/commonResponse/ResultCode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/a550626a-dabc-4079-8f5d-8bc10fd0e26d/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud_security_swaggerui/src/main/java/com/it/security/swaggerUI/page/basicPage/Page.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#2133#2149#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud_security_swaggerui/src/main/java/com/it/security/swaggerUI/page/productPage/ProductPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud_eurekaClient/src/main/java/com/it/springcloud/eurekaClient/page/productPage/ProductPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud_eurekaClient/src/main/java/com/it/springcloud/eurekaClient/page/basicPage/Page.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../../javaDevelopment/jdk8/jdk/src.zip!/java/util/Optional.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="49" column="19" selection-start-line="49" selection-start-column="19" selection-end-line="49" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud_security_swaggerui/src/main/java/com/it/security/swaggerUI/common/response/commonResponse/basic/ResponseBodyPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="29" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud_security_swaggerui/src/main/java/com/it/security/swaggerUI/api/product/ProductApi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="44" column="1" lean-forward="true" selection-start-line="44" selection-start-column="1" selection-end-line="44" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud_security_swaggerui/src/main/resources/application-eurekaClient.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud_security_swaggerui/src/main/java/com/it/security/swaggerUI/common/response/commonResponse/basic/RespBody.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud_security_swaggerui/src/main/java/com/it/security/swaggerUI/service/productService/ProductService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="97">
+          <caret line="15" column="41" selection-start-line="15" selection-start-column="41" selection-end-line="15" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud_security_swaggerui/src/main/java/com/it/security/swaggerUI/common/response/commonResponse/basic/ResponseBodyPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="24" selection-start-line="6" selection-start-column="24" selection-end-line="6" selection-end-column="24" />
+          <folding>
+            <element signature="e#232#233#0" expanded="true" />
+            <element signature="e#266#267#0" expanded="true" />
+            <element signature="e#328#329#0" expanded="true" />
+            <element signature="e#374#375#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud_security_swaggerui/src/main/java/com/it/security/swaggerUI/common/response/commonResponse/ResponseResult.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-37">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud_security_swaggerui/src/main/java/com/it/security/swaggerUI/common/response/commonResponse/ResponseBusiness.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="73">
+          <caret line="5" column="48" lean-forward="true" selection-start-line="5" selection-start-column="48" selection-end-line="5" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#336#337#0" expanded="true" />
+            <element signature="e#371#372#0" expanded="true" />
+            <element signature="e#432#433#0" expanded="true" />
+            <element signature="e#480#481#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud_security_swaggerui/src/main/java/com/it/security/swaggerUI/common/response/commonResponse/ResponseBusinessPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="59" selection-start-line="4" selection-start-column="59" selection-end-line="4" selection-end-column="59" />
+          <folding>
+            <element signature="e#344#345#0" expanded="true" />
+            <element signature="e#383#384#0" expanded="true" />
+            <element signature="e#460#461#0" expanded="true" />
+            <element signature="e#516#517#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud_eurekaClient/src/main/java/com/it/springcloud/eurekaClient/common/response/commonResponse/basic/RespBody.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="25" selection-start-line="7" selection-start-column="25" selection-end-line="7" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud_eurekaClient/src/main/java/com/it/springcloud/eurekaClient/common/response/commonResponse/basic/ResponseBodyPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="44" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
+          <folding>
+            <element signature="e#318#319#0" expanded="true" />
+            <element signature="e#380#381#0" expanded="true" />
+            <element signature="e#426#427#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud_eurekaClient/src/main/java/com/it/springcloud/eurekaClient/common/response/commonResponse/ResponseBusinessPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="16" column="73" lean-forward="true" selection-start-line="16" selection-start-column="73" selection-end-line="16" selection-end-column="73" />
+          <folding>
+            <element signature="e#371#372#0" expanded="true" />
+            <element signature="e#410#411#0" expanded="true" />
+            <element signature="e#487#488#0" expanded="true" />
+            <element signature="e#543#544#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud_eurekaClient/src/main/java/com/it/springcloud/eurekaClient/feign/productFeignClient/ProductFeignClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="27" column="31" selection-start-line="27" selection-start-column="31" selection-end-line="27" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/springcloud_eurekaClient/src/main/java/com/it/springcloud/eurekaClient/controller/ProductFeignClientController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="33" column="31" selection-start-line="33" selection-start-column="31" selection-end-line="33" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/springcloud_security_swaggerui/src/main/java/com/it/security/swaggerUI/service/productService/imp/ProductServiceImp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="169">
-          <caret line="24" column="5" selection-start-line="24" selection-start-column="5" selection-end-line="24" selection-end-column="5" />
+        <state relative-caret-position="287">
+          <caret line="58" column="73" selection-start-line="58" selection-start-column="73" selection-end-line="58" selection-end-column="73" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1040#1041#0" expanded="true" />
-            <element signature="e#1090#1091#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/springcloud_security_swaggerui/src/main/java/com/it/security/swaggerUI/api/product/ProductApi.java">
+    <entry file="file://$PROJECT_DIR$/springcloud_security_swaggerui/src/main/java/com/it/security/swaggerUI/controller/productController/ProductController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="42" column="49" selection-start-line="42" selection-start-column="11" selection-end-line="42" selection-end-column="49" />
+        <state relative-caret-position="-411">
+          <caret line="48" column="54" lean-forward="true" selection-start-line="48" selection-start-column="54" selection-end-line="48" selection-end-column="54" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

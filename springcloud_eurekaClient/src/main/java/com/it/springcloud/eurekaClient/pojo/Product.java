@@ -3,13 +3,13 @@ package com.it.springcloud.eurekaClient.pojo;
 import lombok.Data;
 import org.springframework.format.annotation.DateTimeFormat;
 
+import java.io.Serializable;
 import java.util.Date;
 
 @Data
-public class Product {
+public class Product implements Serializable {
     //商品主键id
     private Integer id;
-    //商品名称
     private String name;
     //商品类型
     private String type;
@@ -18,4 +18,7 @@ public class Product {
     //商品创建时间
     @DateTimeFormat(pattern = "yyyy-MM-dd HH:mm:ss")
     private Date createTime;
+
+    public Product() {
+    }
 }
