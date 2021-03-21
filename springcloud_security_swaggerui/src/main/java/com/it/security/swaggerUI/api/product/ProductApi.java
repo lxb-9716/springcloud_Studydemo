@@ -36,7 +36,7 @@ public interface ProductApi {
     public ResponseBusinessPage<Product> findAllProductPage(int page, int size);
 
     /*根据商品id查询商品信息*/
-    @ApiOperation("查询所有商品的信息,带分页")
+    @ApiOperation("根据id删除商品信息,带分页")
     @ApiImplicitParams({
             @ApiImplicitParam(name = "id", value = "页码", required = true,
                     paramType = "path", dataType = "int")

@@ -2,6 +2,7 @@ package com.it.security.swaggerUI.pojo.product;
 
 import lombok.Data;
 import lombok.NoArgsConstructor;
+import lombok.ToString;
 import org.springframework.format.annotation.DateTimeFormat;
 
 import javax.persistence.Column;
@@ -14,6 +15,7 @@ import java.util.Date;
 @NoArgsConstructor
 @Entity//表示当前类是一个实体类
 @Table(name = "product")//对应数据库表的名称
+@ToString
 public class Product {
 
     //商品主键id

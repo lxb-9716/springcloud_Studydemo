@@ -1,4 +1,4 @@
-package com.it.security.swaggerUI.config;
+package com.it.security.swaggerUI.config.swaggerConf;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
@@ -30,9 +30,9 @@ public class Swagger2Config {
     /*该方法可以配置有关api文档描述的一些详细信息*/
     private ApiInfo apiInfo() {
         return new ApiInfoBuilder()
-                .title("springboot整合swagger-ui")//文档名
-                .contact(new Contact("lxb", null, "lxb_9716@163.com"))//创建人相关信息
-                .description("springboot整合swagger-ui模块相关的api测试")//对于文档的一些描述性信息
+                .title("springCloud微服务框架学习")//文档名
+                .contact(new Contact("简约之美", null, "lxb_9716@163.com"))//创建人相关信息
+                .description("Eureka、feign组件的学习")//对于文档的一些描述性信息
                 .version("1.0.1")//版本号
                 .build();
     }

@@ -1,4 +1,4 @@
-package com.it.security.swaggerUI.config;
+package com.it.security.swaggerUI.config.securityConf;
 
 import org.springframework.context.annotation.Configuration;
 
